@@ -1,0 +1,5 @@
+﻿"ID";"Titre";"Statut";"Dernière modification";"Date d'ouverture";"Priorité";"Demandeur - Demandeur";"Attribué à - Technicien";"Catégorie";"TTR"
+"3";"Problème d'accès boîte Mail";"En attente";"2026-09-14 11:19";"2026-09-14 09:31";"Haute";"glpi";"glpi";"";""
+"1";"Problème d'authentification VPN";"En attente";"2026-09-14 11:19";"2026-09-14 08:02";"Haute";"glpi";"glpi";"";""
+"4";"Problème d'accès au logiciel compta";"En attente";"2026-09-14 10:03";"2026-09-14 10:03";"Très haute";"glpi";"glpi";"";""
+"2";"Problème d'accès a l'imprimante";"En attente";"2026-09-14 09:38";"2026-09-14 09:20";"Moyenne";"glpi";"glpi";"";""
